@@ -1,0 +1,9 @@
+html{
+    text-align: center;
+}
+
+form{
+display: flex;
+flex: table-column;
+justify-content: center;
+}
