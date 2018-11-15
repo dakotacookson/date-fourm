@@ -1,9 +1,16 @@
 html{
-    text-align: center;
+    text-align: left;
+    
 }
 
+h1{
+    text-align: center;
+}
+input{
+    flex-shrink: 11;
+    display: block;
+}
 form{
-display: flex;
-flex: table-column;
-justify-content: center;
+    display: flex;
+    flex-direction: column;
 }
